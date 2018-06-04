@@ -38,7 +38,7 @@ Springboot + shiro权限管理 博客后台管理。
 
 #### 图片预览
 ![博客首页](https://github.com/cleargit/management/blob/master/docs/img/home.PNG)
-![后台首页]()
+![后台首页](https://github.com/cleargit/management/blob/master/docs/img/bhome.PNG)
 ![用户管理](https://github.com/cleargit/management/blob/master/docs/img/person.PNG)
 ![角色管理](https://github.com/cleargit/management/blob/master/docs/img/blog.PNG)
 
