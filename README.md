@@ -47,4 +47,4 @@ Springboot + shiro权限管理 博客后台管理。
 #### 生死看淡 不服来干 更多信息，请关注：
 
  1. [我的博客](http://www.fadeoooo.top/blog/index.html)
- 2. [前台代码](https://github.com/cleargit/blog)
+ 2. [前台代码](https://github.com/cleargit/myblog)
